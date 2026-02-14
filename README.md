@@ -118,7 +118,7 @@ User → Web Page (HTML/CSS) → JavaScript Logic → (Optional: Firebase Databa
 
 ### Video
 
-[Add YouTube or Drive demo link here]
+[[Add YouTube or Drive demo link here](https://drive.google.com/file/d/1XeTSXeVK-sRLt5BfJsaeE985fs-R1bM-/view?usp=sharing)]
 
 Explain in the video:
 
