@@ -1,0 +1,83 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: linear-gradient(135deg, #4dc9df, #f0f7f8);
+    text-align: center;
+    padding: 20px;
+}
+
+/* Titles */
+h1 {
+    margin-bottom: 20px;
+    color: #01060a;
+    font-style: italic;
+}
+
+h2 {
+    margin: 25px 0 10px;
+    color: #030303;
+}
+
+/* Card */
+.box {
+    background: #317431;
+    padding: 25px;
+    margin: 20px auto;
+    width: 420px;
+    border-radius: 20px;
+    box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
+}
+
+/* Inputs */
+input,
+select {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+    border: 1px solid #afce25;
+    font-size: 14px;
+    outline: none;
+}
+
+input:focus,
+select:focus {
+    border: 1px solid #1566b3;
+}
+
+/* Image */
+img {
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+/* Button */
+button {
+    padding: 10px 14px;
+    background: #2793ae;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+button:hover {
+    background: #58d88d;
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+    .box {
+        width: 95%;
+    }
+}
