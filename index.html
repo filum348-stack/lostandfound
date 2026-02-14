@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Lost & Found AI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>📦 Smart Lost & Found (AI)</h1>
+
+    <div class="box">
+        <h3>Upload Item</h3>
+
+        <input type="text" id="name" placeholder="Item name">
+
+        <select id="type">
+            <option value="Lost">Lost</option>
+            <option value="Found">Found</option>
+        </select>
+
+        <input type="tel" id="contact" placeholder="Contact number">
+
+        <input type="file" id="photo" accept="image/*">
+
+        <button id="uploadBtn">Upload</button>
+    </div>
+
+    <h2>Items List</h2>
+    <div id="items"></div>
+
+    <!-- JS -->
+    <script src="script.js"></script>
+
+</body>
+</html>
