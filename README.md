@@ -94,6 +94,9 @@ Add your screenshots here:
 
 ```
 Screenshot 1 – Home page
+<p align="center">
+  <img src="./1.png" alt="Project Banner" width="100%">
+</p>
 Screenshot 2 – Uploading lost item
 Screenshot 3 – Items list display
 ```
