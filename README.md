@@ -93,7 +93,7 @@ Or use Live Server in VS Code.
 Add your screenshots here:
 
 ```
-Screenshot 1 – main/screenshots/1.png
+Screenshot 1 – screenshots/1.png
 Screenshot 2 – Uploading lost item
 Screenshot 3 – Items list display
 ```
