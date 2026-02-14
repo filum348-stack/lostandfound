@@ -92,12 +92,13 @@ Or use Live Server in VS Code.
 
 Add your screenshots here:
 
-
-Screenshot 1 – lostandfound/screenshots/1.png
+```
+Screenshot 1 – Home page
 Screenshot 2 – Uploading lost item
 Screenshot 3 – Items list display
 ```
 
+---
 
 ## System Architecture
 
